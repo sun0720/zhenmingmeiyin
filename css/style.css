@@ -78,6 +78,12 @@ img {
   width: auto;
 }
 
+.logo-text {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
 .logo-icon {
   width: 40px;
   height: 40px;
