@@ -64,22 +64,22 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 70px;
+  height: 100px;
 }
 
 .logo {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 16px;
 }
 
 .logo-img {
-  height: 50px;
+  height: 80px;
   width: auto;
 }
 
 .logo-text {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 700;
   color: var(--primary-color);
 }
